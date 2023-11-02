@@ -1,0 +1,39 @@
+.Mentor_card{
+    /* height: 250px; */
+    width: 370px;
+    background: linear-gradient(to bottom right,brown,black);
+    margin: 0px 25px;
+}
+.card_part{
+    height: 50px;
+    background-color: white;
+    padding: 10px 40px;
+}
+.typo{
+    font-size: 25px;
+}
+.typo1{
+    font-size: 25px;
+    color:brown;
+    float: right;
+}
+.carousel-container {
+    max-width: 100%;
+    width: 100%;
+    padding-top: 50px;
+    background-color: #fef8e7;
+    padding-bottom: 70px;
+}
+  
+.slick-slide img {
+    max-width: 100%;
+    height: auto;
+}
+.head9{
+    text-align: center;
+    margin-bottom: 25px;
+}
+.head9 h1{
+    padding-bottom: 25px;
+}
+

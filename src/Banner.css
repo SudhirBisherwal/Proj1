@@ -1,0 +1,38 @@
+.mainbox1{
+    background-color: #fef8e7;
+    padding: 0px 80px;
+    height:auto;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+.mainbox h1{
+    font-size: 48px;
+    margin-bottom: 5px;
+}
+.btn1{
+    background-color: brown;
+    color: white;
+    padding: 12px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 10px;
+}
+.mainbox h2{
+    padding-left: 55px;
+}
+.head{
+    font-size: 18px;
+    margin-bottom: 10px;
+    background: linear-gradient(90deg,#f04c41,#2e2e2e);
+    -webkit-text-fill-color:transparent;
+    -webkit-background-clip:text;
+    padding-top: 50px;
+    padding-left: 20px;
+}
+.para{
+    font-size: 18px;
+    padding:0px 20px;
+}
+.heading4{
+    padding-bottom: 0px;
+}

@@ -1,0 +1,10 @@
+.carousel-container1 {
+    max-width: 100%;
+    width: 100%;
+    padding-top: 50px;
+  }
+  
+  .slick-slide img {
+    max-width: 100%;
+    height: auto;
+  }
